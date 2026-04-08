@@ -1,0 +1,28 @@
+INFO:     Started server process [16405]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:63137 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63137 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63213 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63213 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63301 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63301 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63326 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63326 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63466 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63466 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63631 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63631 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63789 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63789 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63826 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63826 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63938 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63938 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63074 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63074 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53582 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53582 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53601 - "POST /calculate-balances HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53601 - "POST /calculate-balances HTTP/1.1" 200 OK

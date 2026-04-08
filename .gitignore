@@ -1,0 +1,22 @@
+# Root ignores
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEs
+.vscode/
+.idea/
+
+# Postgres/Database (if any lingering files)
+docker-compose.override.yml
+*.sqlite
+*.db
